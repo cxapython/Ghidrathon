@@ -1,3 +1,19 @@
+当前的环境
+jkd版本=17
+python版本=3.8
+gradle使用的7.4。
+原作者对这几个版本要求。
+其中需要注意的是java的版本是根据java_home环境变量来的，所以这个得注意。
+
+The following tools are needed to build, install, and run Ghidrathon:
+
+
+Tool | Version |Source |
+|---|---|---|
+| Ghidra | `>= 10.3` | https://ghidra-sre.org |
+| Jep | `>= 4.1.1` | https://github.com/ninia/jep |
+| Gradle | `>= 7.3` | https://gradle.org/releases |
+| Python | `>= 3.8` | https://www.python.org/downloads |
 # Ghidrathon
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.txt)
